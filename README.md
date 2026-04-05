@@ -1,7 +1,7 @@
 ## Hi there 👋
 # douglashurst
 
-<h1>Hi, I'm Douglas, an <a href="www.linkedin.com/in/douglas-hurst-16b602391">IT Support Specialist – Certified</a>!</h1>
+<h1>Hi, I'm Douglas, an <a href="[www.linkedin.com/in/douglas-hurst-16b602391](https://www.linkedin.com/in/douglas-hurst-16b602391/)">IT Support Specialist – Certified</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
