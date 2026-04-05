@@ -1,16 +1,17 @@
 ## Hi there 👋
+# douglashurst
 
-<!--
-**slightlystrange5-hash/slightlystrange5-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Douglas, an <a href="https://linkedin.com/in/Josh">IT Support Specialist – Certified</a>!</h1>
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Active Directory</b>
+  - [Azure Active Directory: Domain Controller & Client Setup](https://github.com/slightlystrange5-hash/Azure-Active-Directory-Domain-Controller-Client-Setup)
+  - [Active Directory: Deploying Active Directory](https://github.com/slightlystrange5-hash/Active-Directory-Deploying-Active-Directory)
+  - [Active Dirtectory: Group Policy and Managing Accounts](https://github.com/slightlystrange5-hash/Enabling-and-Unlocking-Accounts-and-Restting-Passwords)
+
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Douglas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: www.linkedin.com/in/douglas-hurst-16b602391
